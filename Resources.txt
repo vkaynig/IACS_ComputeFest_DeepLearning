@@ -27,6 +27,12 @@ Learning Separable Filters
 http://infoscience.epfl.ch/record/200142/files/separable_filters_learning_1.pdf
 
 
+Machine Learning: The High-Interest Credit Card of Technical Debt
+   There's no free lunch.  Using machine learning can complicate other
+   parts of your pipeline.
+https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43146.pdf
+
+
 ImageNet
   Giant database of images and classifications, often used in training.
 http://www.image-net.org/
@@ -35,3 +41,4 @@ http://www.image-net.org/
 LabelMe
   Similar database, from MIT
 http://labelme.csail.mit.edu/Release3.0/browserTools/php/dataset.php
+
