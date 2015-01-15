@@ -23,6 +23,10 @@ Convolutional Deep Belief Networks for Scalable Unsupervised Learning
 http://web.eecs.umich.edu/~honglak/icml09-ConvolutionalDeepBeliefNetworks.pdf
 
 
+Learning Separable Filters
+http://infoscience.epfl.ch/record/200142/files/separable_filters_learning_1.pdf
+
+
 ImageNet
   Giant database of images and classifications, often used in training.
 http://www.image-net.org/
