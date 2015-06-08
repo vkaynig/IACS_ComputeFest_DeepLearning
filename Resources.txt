@@ -1,0 +1,44 @@
+Intriguing Properties of Neural Networks
+  This is the paper that shows how to fool neural networks with very
+  little noise.
+http://arxiv.org/abs/1312.6199
+
+
+Visualizing and Understanding Convolutional Networks
+  Shows how higher-level features can be visualized, and the internal
+  workings of a convnet with maxpooling can be explored.
+http://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf
+
+
+Dropout: A Simple Way to Prevent Neural Networks from Overfitting
+http://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf
+
+
+Maxout Networks
+http://arxiv.org/abs/1302.4389
+
+
+Convolutional Deep Belief Networks for Scalable Unsupervised Learning
+    of Hierarchical Representations 
+http://web.eecs.umich.edu/~honglak/icml09-ConvolutionalDeepBeliefNetworks.pdf
+
+
+Learning Separable Filters
+http://infoscience.epfl.ch/record/200142/files/separable_filters_learning_1.pdf
+
+
+Machine Learning: The High-Interest Credit Card of Technical Debt
+   There's no free lunch.  Using machine learning can complicate other
+   parts of your pipeline.
+https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43146.pdf
+
+
+ImageNet
+  Giant database of images and classifications, often used in training.
+http://www.image-net.org/
+
+
+LabelMe
+  Similar database, from MIT
+http://labelme.csail.mit.edu/Release3.0/browserTools/php/dataset.php
+
